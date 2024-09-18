@@ -11,7 +11,7 @@ Spring.
 1. Clona el repositorio. 
 2. Navega al directorio del proyecto.
 3. Ejecuta (mvn spring-boot:run).
-4. Usa Postman o URL para hacer una solicitud GET al endpoint `/api/users` con el siguiente JSON de ejemplo:
+4. Usa Postman o URL para hacer una solicitud GET al endpoint `/api/users`
 
    
 Nota : Descargar Puglins de lombok en IntelliJ IDEA
