@@ -8,7 +8,7 @@ Spring.
 - Maven
 
 ## Instrucciones para ejecutar
-1. Clona el repositorio. 
+1. Clona el repositorio.  `git clone https://github.com/juanCa200/api-consumer-spring-boot`
 2. Navega al directorio del proyecto.
 3. Ejecuta (mvn spring-boot:run).
 4. Usa Postman o URL para hacer una solicitud GET al endpoint `/api/users`
