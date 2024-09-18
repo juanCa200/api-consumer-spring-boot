@@ -1,4 +1,4 @@
-# Consume api externa
+# Consumir api externa
 
 consumir una API externa para obtener una lista de usuarios y exponerla mediante un nuevo endpoint en la aplicación
 Spring.
